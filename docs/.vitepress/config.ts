@@ -1,35 +1,17 @@
-import { defineConfig } from 'vitepress';
-
-// refer https://vitepress.dev/reference/site-config for details
-export default defineConfig({
-  lang: 'en-US',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
-
+export default{
+  title: 'Academia Poder do Corpo',
+  description: 'Projeto da Academia Poder do Corpo',
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
-
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
-    ],
-
-    sidebar: [
-      {
-        // text: 'Guide',
-        items: [
-          { text: 'Example', link: '/example' },
-          // ...
-        ],
-      },
+      {text: "Introdução", link: '/introducao.md'},
+      {text: "Descrição", link: '/Descricao.md'},
+      {text: "Principais Recursos e Funcionalidades", link: '/Principais_Recursos.md'},
+      {text: "Diagrama de Casos de Uso", link: '/Casos_de_uso.md'},
+      {text: "Diagrama de Classe", link: '/Classe.md'},
+      {text: "Cronograma e Entrega", link: '/Cronograma.md'},
+      {text: "Riscos e Mitigação", link: '/Riscos.md'},
+      {text: "Custos e Orçamento", link: '/Custos.md'},
+      {text: "Considerações Finais", link: '/Consideracoes_finais.md'},
     ],
   },
-});
+}
