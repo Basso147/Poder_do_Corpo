@@ -14,9 +14,6 @@ A academia busca proporcionar saúde e a satisfação de nossos alunos através 
 
 
 
-## 2.1.1 Canvas do Projeto ##
-
-![](Aspose.Words.59bc8e80-461e-4c76-9b13-74def84fd347.002.png)
 
 ## 2.2 Stakeholders ##
 

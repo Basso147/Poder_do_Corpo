@@ -1,6 +1,7 @@
 # 4. Diagrama de Caso de Uso #
 
-![](Aspose.Words.59bc8e80-461e-4c76-9b13-74def84fd347.003.png)
+!['Diagrama de Casos de Uso'](./img/Casos%20de%20Uso.png)
+
 
 
 ## 4.1 Descrição de Caso de Uso ##
