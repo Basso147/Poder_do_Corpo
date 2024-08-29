@@ -12,6 +12,7 @@ export default{
       {text: "Riscos e Mitigação", link: '/Riscos.md'},
       {text: "Custos e Orçamento", link: '/Custos.md'},
       {text: "Considerações Finais", link: '/Consideracoes_finais.md'},
+      {text: "Acesso ao Protótipo", link: '/Prototipo.md'},
     ],
     sidebar: [
       {text: "Introdução", link: '/introducao.md'},
@@ -23,6 +24,7 @@ export default{
       {text: "Riscos e Mitigação", link: '/Riscos.md'},
       {text: "Custos e Orçamento", link: '/Custos.md'},
       {text: "Considerações Finais", link: '/Consideracoes_finais.md'},
+      {text: "Acesso ao Protótipo", link: '/Prototipo.md'},
     ],
   },
 }
