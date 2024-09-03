@@ -6,7 +6,7 @@
 
 ## 4.1 Descrição de Caso de Uso ##
 
-### <a name="_4e7corccx54x"></a>##1)Caso de Uso:## Gerar Relatório de Frequência
+### <a name="_4e7corccx54x"></a>**1)Caso de Uso:** Gerar Relatório de Frequência
 **Objetivo:** Gerar um Relatório de Frequência dos funcionários 
 
 **Atores:** Funcionário
