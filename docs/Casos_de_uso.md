@@ -23,11 +23,13 @@ Sistema: Retorna a tela com o Relatório de Frequência
 
 **Pós-condição:** O relatório de frequência deve ter sido gerado e apresentado ao funcionário.
 
-**Caso de Uso:** Manter Aluno
+------------------------------------------------------------------------------------
+
+### <a name="_4e7corccx54x"></a>**2)Caso de Uso:** Manter Aluno
 
 **Objetivo:** Realizar o gerenciamento dos dados dos alunos, incluindo cadastro, edição, exclusão e consulta.
 
-**Atores:**Administrador
+**Atores:** Administrador
 
 **Pré-condição:** O sistema deve estar disponível on-line e o administrador deve estar logado no sistema com usuário e senha válidos.
 
