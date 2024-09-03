@@ -29,14 +29,15 @@ Sistema: Retorna a tela com o Relatório de Frequência
 **Atores:** Administrador
 **Pré-condição:** O sistema deve estar disponível on-line e o administrador deve estar logado no sistema com usuário e senha válidos.
 **Fluxo de Eventos:**
-Administrador: Acessa o link para gerenciar alunos.  
-Administrador: Acessa o link para cadastrar, editar, excluir ou consultar um aluno.
+
+Administrador: Acessa a página para gerenciar alunos.  
+Administrador: Acessa a página para cadastrar, editar, excluir ou consultar um aluno.
 
 **Se for cadastrar:**
 
 Sistema: Retorna a tela com o formulário de cadastro de aluno.  
-Administrador: Informa os dados do aluno (nome, data de nascimento, turma, etc.).  
-Administrador: Clique em "Salvar Aluno".  
+Administrador: Informa os dados do aluno (nome, data de nascimento, Email, etc.).  
+Administrador: Clique em "Salvar".  
 Sistema: Valida os dados informados e grava o novo aluno no sistema.
 
 **Se for editar:**
@@ -45,7 +46,7 @@ Sistema: Retorna a lista de alunos cadastrados.
 Administrador: Seleciona o aluno que deseja editar.  
 Sistema: Retorna a tela com o formulário preenchido com os dados do aluno.  
 Administrador: Altera os dados necessários.  
-Administrador: Clique em "Salvar Alterações".  
+Administrador: Clique em "Salvar".  
 Sistema: valida os dados e atualiza o cadastro do aluno.
 
 **Se for excluir:**
@@ -62,3 +63,4 @@ Administrador: Seleciona o aluno para visualizar detalhes.
 Sistema: Apresenta os detalhes do aluno selecionado.
 
 **Pós-condição:** O aluno deve ter sido cadastrado, editado, excluído ou consultado conforme a ação realizada pelo administrador.
+
