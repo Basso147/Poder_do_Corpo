@@ -17,9 +17,21 @@ A academia busca proporcionar saúde e a satisfação de nossos alunos através 
 
 ## 2.2 Stakeholders ##
 
-\- [João Arthur Dutra Basso] - [Gerente do Projeto e Membro da equipe de desenvolvimento]
+\-[João Arthur Dutra Basso] - [Gerente do Projeto e Membro da equipe de desenvolvimento]
 
 \- [Ana Caroline Debastiani] - [Gerente do Projeto e Membro da equipe de desenvolvimento]
+
+\- [Amora Pedrita Peres] - [Funcionária Recepcionista]
+
+\- [Maicon Josef] - [Funcionário Recepcionista]
+
+\- [João Pedro Visconde] - [Funcionário Recepcionista]
+
+\- [Cecilia Aparecida Reis] - [Funcionária Professora]
+
+\- [Rodrigo Rodolfo Ramos] - [Funcionário Professor]
+
+\- [Elias Pedro Silva] - [Funcionário Professor]
 
 ## 2.3 Objetivos ##
 
